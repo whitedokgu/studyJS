@@ -1,2 +1,2 @@
 # studyJS
-[You Can See This](https://github.com/whitedokgu/studyJS/index.html)
+[You Can See This](https://whitedokgu.github.io/studyJS/)
