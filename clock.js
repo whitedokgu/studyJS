@@ -10,3 +10,4 @@ function getDate() {
 
 getDate();
 setInterval(getDate, 1000);
+
